@@ -27,8 +27,6 @@ This project is dedicated to the development of a robust book recommendation sys
 
 - [Aliza Waseem] - Project Lead & Machine Learning Modeling
 
-
-
 ## License
 
 This project is licensed under the [MIT License] - see the [LICENSE](LICENSE) file for details.
