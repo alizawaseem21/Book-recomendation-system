@@ -26,7 +26,7 @@ This project is dedicated to the development of a robust book recommendation sys
 ## Contributors
 
 - [Aliza Waseem] - Project Lead & Machine Learning Modeling
-- [Ehtisham Sadiq](https://github.com/ehtisham-sadiq) - Data Analysis & Data Visualization
+
 
 
 ## License
